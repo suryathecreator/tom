@@ -1,4 +1,4 @@
-**Defining Physically-Consistent Toy Optical Models Through Stochastic Perturbation in a Nested Mach–Zehnder Interferometer**
+<h5>**Defining Physically-Consistent Toy Optical Models Through Stochastic Perturbation in a Nested Mach–Zehnder Interferometer**</h5>
 
 This GitHub repository contains the scripts and data to recreate the experimental results given in the paper. The three values of s that were tested are listed out, alongside the corresponding analysis scripts and generated .csv files for the visibility data.
 
