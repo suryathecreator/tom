@@ -2,10 +2,10 @@
 
 
 
-https://github.com/user-attachments/assets/ac7f3d76-98a3-4d9e-ba89-2ec87aac909b
+!(https://github.com/user-attachments/assets/ac7f3d76-98a3-4d9e-ba89-2ec87aac909b)
 Figure 1: Low-exposure video of experimental setup running
 
-https://github.com/user-attachments/assets/183c5f98-4440-4909-af92-2f05899b3e09
+!(https://github.com/user-attachments/assets/183c5f98-4440-4909-af92-2f05899b3e09)
 Figure 2: s = 0.7, Experiment c
 
 
