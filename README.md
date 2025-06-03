@@ -1,4 +1,4 @@
-# Defining Physically-Consistent Toy Optical Models Through Stochastic Perturbation in a Nested Mach–Zehnder Interferometer (or TOM, for short)
+# Defining Physically-Consistent _Toy Optical Models_ Through Stochastic Perturbation in a Nested Mach–Zehnder Interferometer (or _TOM_, for short)
 
 
 ![resultsexample](https://github.com/user-attachments/assets/28557e10-d296-4d71-b330-3d6dd2a72d2f)
