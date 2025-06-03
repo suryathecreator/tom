@@ -2,7 +2,7 @@
 
 
 ![resultsexample](https://github.com/user-attachments/assets/28557e10-d296-4d71-b330-3d6dd2a72d2f)
-Figure 0: Visibility graph produced in each experiment across all s values
+Figure 1: Example visibility graph that is produced in each experiment across all s values
 
 
 https://github.com/user-attachments/assets/87ab61cb-881c-4fb1-a3da-53bf93289c57
