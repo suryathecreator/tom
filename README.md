@@ -2,15 +2,17 @@
 
 
 
-https://github.com/user-attachments/assets/c72f30da-ee50-45aa-b8a0-ae44414490ba
 
+https://github.com/user-attachments/assets/3fb0fce3-8aed-4f8e-868c-9542490df058
+
+
+https://github.com/user-attachments/assets/c72f30da-ee50-45aa-b8a0-ae44414490ba
+Figure 2: s = 0.7, Experiment c
 
 
 ![IMG_9879.MOV](https://github.com/user-attachments/assets/ac7f3d76-98a3-4d9e-ba89-2ec87aac909b)
-Figure 1: Low-exposure video of the experimental setup running
 
-![rtn_experiment_c_cropped.mp4](https://github.com/user-attachments/assets/183c5f98-4440-4909-af92-2f05899b3e09)
-Figure 2: s = 0.7, Experiment c
+
 
 ![IMG_6071](https://github.com/user-attachments/assets/d6fddb32-a097-49fa-a9fb-b626177dad2e)
 Figure 3: Experimental Setup
