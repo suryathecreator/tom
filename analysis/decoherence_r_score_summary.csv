@@ -1,0 +1,9 @@
+model,comparison,Spearman ρ,Spearman p,R²,r_score
+Cohen's d (a),0 vs. 1,-0.5,0.6667,0.058,0.029
+Cohen's d (a),0 vs. 2,-0.5,0.6667,0.158,0.079
+Cohen's d (b),0 vs. 1,0.5,0.6667,0.051,0.025
+Cohen's d (b),0 vs. 2,0.5,0.6667,0.599,0.3
+Cohen's d (c),0 vs. 1,-1.0,0.0,0.82,0.82
+Cohen's d (c),0 vs. 2,-0.5,0.6667,0.59,0.295
+Cohen's d (d),0 vs. 1,0.5,0.6667,0.711,0.355
+Cohen's d (d),0 vs. 2,0.5,0.6667,0.72,0.36
