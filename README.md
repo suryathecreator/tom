@@ -1,5 +1,6 @@
 # Defining Physically-Consistent _Toy Optical Models_ Through Stochastic Perturbation in a Nested Mach–Zehnder Interferometer (or _TOM_, for short)
 
+Author: Surya Duraivenkatesh
 
 ![resultsexample](https://github.com/user-attachments/assets/28557e10-d296-4d71-b330-3d6dd2a72d2f)
 Figure 1: Example visibility graph from an experiment (produced in each experiment across all s values)
@@ -19,6 +20,4 @@ Experiments A through D represent the 4 different detectors. The different s val
 
 Videos above a certain limit struggle to fit on YouTube, so some videos were placed on YouTube. If one desires to recreate the analysis, the videos present can be downloaded from YouTube using this link: https://ytmp4.is/en/ (all at the risk of the user).
 
-
-
-
+This paper acknowledges Dr. Gary Oas for his guidance throughout the project.
