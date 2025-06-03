@@ -20,4 +20,4 @@ Experiments A through D represent the 4 different detectors. The different s val
 
 Videos above a certain limit struggle to fit on YouTube, so some videos were placed on YouTube. If one desires to recreate the analysis, the videos presented can be downloaded from YouTube using this link: https://ytmp4.is/en/ (at the user's own risk).
 
-This paper acknowledges Dr. Gary Oas for his guidance throughout the project.
+This paper acknowledges Gary Oas for his guidance throughout the project.
