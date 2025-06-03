@@ -3,7 +3,11 @@
 
 
 
-https://github.com/user-attachments/assets/3fb0fce3-8aed-4f8e-868c-9542490df058
+
+
+https://github.com/user-attachments/assets/87ab61cb-881c-4fb1-a3da-53bf93289c57
+
+
 Figure 1: Low-exposure video of the experimental setup running
 
 ![IMG_6071](https://github.com/user-attachments/assets/d6fddb32-a097-49fa-a9fb-b626177dad2e)
